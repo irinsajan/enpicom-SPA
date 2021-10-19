@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  
+}
+
+
+.App h1{
+  font-size: 20px;
+  
+}
+
+.Drop {
+  margin: 20px;
+}
+
+.Output{
+  font-size: 12px;
+  text-align: left;
+  margin: 20px; 
+}
+
+.Text p{
+  word-wrap: break-word;
+  font-weight: bold;
+  margin: 0px;
+}
+
+.Window{
+  display: flex;
+  flex-direction: column;
+  word-wrap: break-word;
+}
+
+
+
+
